@@ -1,119 +1,124 @@
-<div align="center">
+<h1 align="center">Hi, I'm Harsha P 👋</h1>
+<h3 align="center">AI Trainer • AI/ML Developer • Generative AI Enthusiast</h3>
 
-<img src="./assets/hero.svg" width="100%" alt="Harsha P | AI Trainer and Developer" />
+<p align="center">
+  <a href="https://github.com/harshaaa69">
+    <img src="https://img.shields.io/badge/GitHub-harshaaa69-181717?style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://img.shields.io/badge/AI%20Trainer-RankBook-0F172A?style=for-the-badge&logo=OpenAI&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Developer-Generative%20AI-7C3AED?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Builder-0891B2?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Mysuru-16A34A?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
 
-<br/>
+---
 
-<img src="https://img.shields.io/badge/AI%20Trainer-0891B2?style=for-the-badge&labelColor=111827&logo=googleclassroom&logoColor=white" alt="AI Trainer" height="29" />
-<img src="https://img.shields.io/badge/AI%20Developer-7C3AED?style=for-the-badge&labelColor=111827&logo=python&logoColor=white" alt="AI Developer" height="29" />
-<img src="https://img.shields.io/badge/Generative%20AI-DB2777?style=for-the-badge&labelColor=111827&logo=openai&logoColor=white" alt="Generative AI" height="29" />
-<img src="https://img.shields.io/badge/Machine%20Learning-0F766E?style=for-the-badge&labelColor=111827&logo=tensorflow&logoColor=white" alt="Machine Learning" height="29" />
+## 🚀 About Me
 
-<br/>
+- 🎓 **B.Tech CSE, DSUSOE’23**
+- 💼 **AI & ML Trainer and Developer @ RankBook**
+- 🤖 Working in **Generative AI, LLMs, AI Agents, Applied AI Solutions**
+- 📊 Interested in **Data Analytics, BI, Full Stack Development**
+- 🧠 I enjoy building AI-powered applications and explaining technical concepts in a practical way
 
-<a href="https://github.com/harshaaa69?tab=followers"><img src="https://img.shields.io/github/followers/harshaaa69?label=Followers&style=for-the-badge&color=8B5CF6&labelColor=111827&logo=github" alt="GitHub followers" /></a>
-<a href="https://github.com/harshaaa69?tab=repositories"><img src="https://img.shields.io/badge/Explore-Code-22D3EE?style=for-the-badge&labelColor=111827&logo=github&logoColor=white" alt="Explore code" /></a>
-<img src="https://komarev.com/ghpvc/?username=harshaaa69&label=Profile+Views&color=7C3AED&style=for-the-badge" alt="Profile views" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Generative%20AI-FF006E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-8338EC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-3A86FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-06D6A0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full%20Stack-118AB2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-F59E0B?style=for-the-badge" />
+</p>
 
-<br/><br/>
+---
 
-<b>Building AI applications. Explaining the ideas behind them.</b>
+## 🛠️ Tech Stack
 
-<sub>Generative AI · LLMs · AI Agents · Machine Learning · Full-Stack Development</sub>
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-</div>
+### AI / ML
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge&logo=ollama&logoColor=white" />
+</p>
 
-<br/>
+### Data / Analytics
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
 
-<img src="./assets/about.svg" width="100%" alt="About me" />
+### Web / App Development
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
 
-<div align="center">
+### Tools / Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
-I’m **Harsha P**, an **AI Trainer &amp; Developer** working with machine learning, generative AI and practical software development. I enjoy building applications and making technical concepts easier to understand through hands-on teaching.
+---
 
-<img src="https://img.shields.io/badge/Based%20in%20Mysuru-334155?style=for-the-badge&labelColor=111827&logo=googlemaps&logoColor=white" alt="Based in Mysuru" height="29" />
-<img src="https://img.shields.io/badge/Python%20First-2563EB?style=for-the-badge&labelColor=111827&logo=python&logoColor=white" alt="Python First" height="29" />
-<img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge&labelColor=111827&logo=probot&logoColor=white" alt="AI Agents" height="29" />
-<img src="https://img.shields.io/badge/Teaching%20and%20Building-0F766E?style=for-the-badge&labelColor=111827&logo=readthedocs&logoColor=white" alt="Teaching and Building" height="29" />
+## 🎯 What I’m Focused On
 
-</div>
+- Building practical **AI applications**
+- Exploring **LLMs and AI Agents**
+- Training students in **AI / ML / GenAI**
+- Creating useful **developer and learning tools**
+- Working on **machine learning + full-stack integration**
 
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/Focus-AI%20Applications-0EA5E9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-GenAI-A855F7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Teaching-22C55E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Developer%20Tools-F97316?style=flat-square" />
+</p>
 
-<img src="./assets/stack.svg" width="100%" alt="Tech stack" />
+---
 
-<div align="center">
+## 🌐 Connect With Me
 
-**AI / ML / DATA**
+<p>
+  <a href="https://github.com/harshaaa69">
+    <img src="https://img.shields.io/badge/GitHub-harshaaa69-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/harshaa0/">
+    <img src="https://img.shields.io/badge/LinkedIn-harshaa0-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/harshaaaorwhat">
+    <img src="https://img.shields.io/badge/Instagram-harshaaaorwhat-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=111827&logo=python&logoColor=white" alt="Python" height="29" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&labelColor=111827&logo=pytorch&logoColor=white" alt="PyTorch" height="29" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&labelColor=111827&logo=tensorflow&logoColor=white" alt="TensorFlow" height="29" />
-<img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&labelColor=111827&logo=scikitlearn&logoColor=white" alt="Scikit Learn" height="29" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&labelColor=111827&logo=pandas&logoColor=white" alt="Pandas" height="29" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&labelColor=111827&logo=numpy&logoColor=white" alt="NumPy" height="29" />
+---
 
-<br/>
-
-<img src="https://img.shields.io/badge/Hugging%20Face-D97706?style=for-the-badge&labelColor=111827&logo=huggingface&logoColor=white" alt="Hugging Face" height="29" />
-<img src="https://img.shields.io/badge/OpenAI-334155?style=for-the-badge&labelColor=111827&logo=openai&logoColor=white" alt="OpenAI" height="29" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&labelColor=111827&logo=langchain&logoColor=white" alt="LangChain" height="29" />
-<img src="https://img.shields.io/badge/Ollama-242424?style=for-the-badge&labelColor=111827&logo=ollama&logoColor=white" alt="Ollama" height="29" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&labelColor=111827&logo=jupyter&logoColor=white" alt="Jupyter" height="29" />
-
-<br/><br/>
-
-**DEVELOPMENT / TOOLS**
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&labelColor=111827&logo=fastapi&logoColor=white" alt="FastAPI" height="29" />
-<img src="https://img.shields.io/badge/React-087EA4?style=for-the-badge&labelColor=111827&logo=react&logoColor=white" alt="React" height="29" />
-<img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&labelColor=111827&logo=nextdotjs&logoColor=white" alt="Next.js" height="29" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&labelColor=111827&logo=typescript&logoColor=white" alt="TypeScript" height="29" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=111827&logo=html5&logoColor=white" alt="HTML5" height="29" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=111827&logo=css&logoColor=white" alt="CSS3" height="29" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=111827&logo=git&logoColor=white" alt="Git" height="29" />
-<img src="https://img.shields.io/badge/GitHub-30363D?style=for-the-badge&labelColor=111827&logo=github&logoColor=white" alt="GitHub" height="29" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&labelColor=111827&logo=visualstudiocode&logoColor=white" alt="VS Code" height="29" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=111827&logo=docker&logoColor=white" alt="Docker" height="29" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&labelColor=111827&logo=postgresql&logoColor=white" alt="PostgreSQL" height="29" />
-<img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&labelColor=111827&logo=linux&logoColor=white" alt="Linux" height="29" />
-
-<br/><br/>
-
-**AT A GLANCE**
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,react,nextjs,ts,fastapi,docker,git,github,vscode&perline=6&theme=dark" alt="Technology icons" />
-
-</div>
-
-<br/>
-
-<img src="./assets/activity.svg" width="100%" alt="GitHub activity" />
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshaaa69&bg_color=0d1117&color=a78bfa&line=22d3ee&point=f472b6&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" width="98%" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=harshaaa69&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=A78BFA" alt="GitHub contribution streak" width="65%" />
-
-</div>
-
-<br/>
-
-<img src="./assets/connect.svg" width="100%" alt="Connect with me" />
-
-<div align="center">
-
-<a href="https://github.com/harshaaa69"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:8B5CF6,100:F472B6&height=95&section=footer" width="100%" alt="Decorative gradient footer" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Let’s%20Build%20Something%20Awesome-7C3AED?style=for-the-badge" />
+</p>
